@@ -1,7 +1,7 @@
 # `DEPRECIATED! The Original Blooket Flooder`
 
 
-Join game as normal
+Join game as norma5778853
 copy/paste code in bookmark bar 
 
 ```js
